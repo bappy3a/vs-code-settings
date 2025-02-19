@@ -104,3 +104,14 @@
   "workbench.activityBar.location": "hidden",
   "chat.commandCenter.enabled": false
 }
+
+
+alias c="clear"
+alias pa="php artisan"
+alias pws="cd ~/www"
+alias zshc="code . cd ~/.zshrc"
+alias foodeva="/Users/bappy/docker/foodeva_web/src"
+alias nrw="npm run watch"
+alias pas="php artisan serve"
+alias pat="php artisan test"
+alias flogin="ssh u757-pjty9oxfgxue@ssh.foodeva.org -p 18765"
