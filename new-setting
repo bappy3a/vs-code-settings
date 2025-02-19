@@ -1,0 +1,106 @@
+{
+  //"editor.fontFamily": "'Fira Code'",
+  //"editor.fontFamily": "Operator Mono",
+  //"editor.fontFamily": "Cascadia code",
+  "editor.fontFamily": "Cascadia code Light",
+  "editor.fontLigatures": true,
+  "editor.renderWhitespace": "none",
+  "git.autofetch": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "explorer.confirmDelete": false,
+  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+  "workbench.colorCustomizations": {
+    "[Material Theme Darker]": {}
+  },
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "python.defaultInterpreterPath": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "editor.accessibilityPageSize": 12,
+  "editor.fontSize": 15,
+  "terminal.integrated.fontFamily": "FuraMono Nerd Font",
+  "bracketPairColorizer.depreciation-notice": false,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "blade": "html",
+    "plaintext": "jade"
+  },
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "wrap.with.unless": {
+    "label": "@unless",
+    "description": "@unless...@endunless",
+    "disabled": false,
+    "snippet": "@unless ($1) \n\t$TM_SELECTED_TEXT\n@endunless$0"
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.renderControlCharacters": false,
+  "workbench.editor.splitInGroupLayout": "vertical",
+  // "editor.fontWeight": "normal",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "git.ignoreMissingGitWarning": true,
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Learn with Sumit - Professional",
+  "volar.vueserver.json.customBlockSchemaUrls": {},
+  "json.schemas": [
+    {
+      "exclude": ["node_modules"]
+    }
+  ],
+  "screencastMode.fontSize": 20,
+  "tailwindCSS.rootFontSize": 14,
+  "workbench.editor.empty.hint": "hidden",
+  "editor.accessibilitySupport": "off",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmPasteNative": false,
+  "workbench.activityBar.location": "hidden",
+  "chat.commandCenter.enabled": false
+}
